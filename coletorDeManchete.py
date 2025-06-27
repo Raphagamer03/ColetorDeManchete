@@ -1,4 +1,4 @@
-# projeto: coletor de manchetes CNN Brasil
+# projeto: coletor de manchetes Globo
 # autor: Raphael Teixeira Da Silva
 # data : 27/06/2025
 
